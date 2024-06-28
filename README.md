@@ -1,9 +1,10 @@
 
 ---
-<a href='https://anwiwah.my.id'>
+<a href='https://weather-app-nine-blush.vercel.app/'>
   <img src='assets/thumbnail.jpg' alt='tfkhdyt header' width='100%' />
 </a>
-# weather app
+
+## weather app
 
 Aplikasi cuaca sederhana yang memungkinkan pengguna mendapatkan informasi cuaca terkini dan prakiraan cuaca untuk suatu kota menggunakan API dari weatherapi.
 
