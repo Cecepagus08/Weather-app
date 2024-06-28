@@ -1,9 +1,11 @@
 
 ---
+<a href='https://anwiwah.my.id'>
+  <img src='assets/thumbnail.jpg' alt='tfkhdyt header' width='100%' />
+</a>
+# weather app
 
-# Aplikasi Cuaca
-
-Aplikasi cuaca sederhana yang memungkinkan pengguna mendapatkan informasi cuaca terkini dan prakiraan cuaca lima hari ke depan untuk suatu kota menggunakan API dari OpenWeatherMap.
+Aplikasi cuaca sederhana yang memungkinkan pengguna mendapatkan informasi cuaca terkini dan prakiraan cuaca untuk suatu kota menggunakan API dari weatherapi.
 
 ## Fitur
 
@@ -28,7 +30,7 @@ Aplikasi cuaca sederhana yang memungkinkan pengguna mendapatkan informasi cuaca 
    - Klik tombol "Search" atau tekan "Enter".
 
 
-## Konfigurasi
+## Konfigurasi kalo mau pake API sendiri
 
 1. Ganti `YOUR-API-KEY-HERE` di file JavaScript dengan API key Anda dari  [weatherapi](https://www.weatherapi.com/).
 
@@ -36,6 +38,6 @@ Aplikasi cuaca sederhana yang memungkinkan pengguna mendapatkan informasi cuaca 
 const API_KEY = "YOUR-API-KEY-HERE"; // API key untuk OpenWeatherMap API
 ```
 
-2. Buka `index.html` di browser web pilihan Anda.
+2. Buka `index.html` di browser web.
 
 ---
