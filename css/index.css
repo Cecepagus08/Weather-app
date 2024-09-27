@@ -34,10 +34,18 @@ box-shadow:  5px 5px 10px #002358,
 
 }
 
+
 .zona{
-  font-size: 0.6rem;
+  font-size: 0.7rem;
   font-family: "Poetsen One", sans-serif;
   font-weight: 400;
+}
+.waktu{
+  margin-top: 10px;
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  color: ;
+  font-size: 0.6rem;
 }
 .suhu{
   font-size:2.9rem;
@@ -78,8 +86,8 @@ box-shadow:  5px 5px 10px #002358,
   width: 90%;
 margin-top: 10px;
   background-color: ;
-  box-shadow:  5px 5px 10px #002358,
-             -5px -5px 10px #0053ce;
+  box-shadow:  5px 5px 8px #002358,
+             -5px -5px 8px #0053ce;
   z-index:;
   display: flex;
   justify-content: space-evenly;
@@ -121,7 +129,7 @@ form{
   height: auto;
   border-radius: 8px;
   display: flex;
-  
+  z-index: 99999;
   justify-content: center;
   align-items: center;
   margin-bottom: 1rem;
@@ -150,7 +158,6 @@ form button{
   padding: 5px;
   border-radius: 100%;
   color: #ffff;
-  background: #003B93;
-box-shadow:  5px 5px 10px #002358,
-             -5px -5px 10px #0053ce;
+  background: transparent;
+  
 }
